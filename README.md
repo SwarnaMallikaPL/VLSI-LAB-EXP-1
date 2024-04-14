@@ -113,7 +113,8 @@ or g7(bo,w5,w3);
 endmodule
 ```
 ## OUTPUT :
-![image](https://github.com/SwarnaMallikaPL/VLSI-LAB-EXP-1/assets/160829667/aba4ba2b-3b76-4728-bf23-928a0effdb2a)
+![image](https://github.com/SwarnaMallikaPL/VLSI-LAB-EXP-1/assets/160829667/b409e79f-4e43-48d3-8ce9-d6832a1c77da)
+
 
 ## 8-BIT RIPPLE CARRY ADDER
 ## LOGIC DIAGRAM :
