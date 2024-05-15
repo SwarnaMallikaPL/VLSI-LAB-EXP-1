@@ -176,6 +176,7 @@ endmodule
 ```
 
 **OUTPUT:**
+
 ![image](https://github.com/SwarnaMallikaPL/VLSI-LAB-EXP-1/assets/160829667/19940af4-30c5-4a0e-b1c4-c416e14a9879)
 
 **RESULT:**<br>
